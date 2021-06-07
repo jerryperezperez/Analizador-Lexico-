@@ -1,3 +1,0 @@
-TipDat1 Asig1 Ent1 Sep1 
-ERROR1 Asig2 Decim1 Arit1 
-ERROR2 Sep2 Iden1 Arit2 
