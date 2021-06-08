@@ -292,7 +292,6 @@ public class Alfabeto {
             MyString.deleteCharAt(0);
         }
 
-        System.out.println(MyString);
         for (int i = 0; i < MyString.length(); i++) {
             if (MyString.charAt(i) == ' ') {
                 contadorEspaciosInicial++;
